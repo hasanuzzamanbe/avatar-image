@@ -1,0 +1,29 @@
+{
+  "name": "avatar-image",
+  "version": "1.0.0",
+  "description": "Get avater image from gravatar using email address.",
+  "main": "avatar-image.js",
+  "scripts": {
+    "test": "avatar-image"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasanuzzamanbe/avatar-image.git"
+  },
+  "keywords": [
+    "gravatar",
+    "gravatar-image",
+    "image",
+    "get avatar from mail",
+    "avatar-image",
+    "from",
+    "mail",
+    "image from mail",
+  ],
+  "author": "Hasanuzzaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasanuzzamanbe/avatar-image/issues"
+  },
+  "homepage": "https://github.com/hasanuzzamanbe/avatar-image#readme"
+}
