@@ -1,6 +1,6 @@
 {
   "name": "avatar-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get avater image from gravatar using email address.",
   "main": "avatar-image.js",
   "scripts": {
