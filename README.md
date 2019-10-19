@@ -1,5 +1,5 @@
 # avatar-image (get gravatar by email)
-Get the gravatar image by email address with specefic size.
+Get the gravatar image link by email address with specefic size.
 
 ## Usages
 Install the latest version:
