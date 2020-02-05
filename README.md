@@ -28,7 +28,7 @@ after import just use anywhere from your file like this:
 
 `<img src='imgLink'`/>
 
-#support & suggestion:
+# Support & Suggestion:
 
 If you face any issue with this package please let us know about it by creating an issue on Github.
 Any kind of suggestion will be appreciated.
