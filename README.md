@@ -33,5 +33,9 @@ after import just use anywhere from your file like this:
 If you face any issue with this package please let us know about it by creating an issue on Github.
 Any kind of suggestion will be appreciated.
 
+ ### For Help:
+ Please feel free to mail me <a href="mailto:hasanuzzamanbe@gmail.com">hasanuzzamanbe@gmail.com</a>
+ 
+ For faster response please text me on https://www.hasanuzzaman.com live chat.
 
 
